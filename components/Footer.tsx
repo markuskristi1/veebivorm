@@ -8,7 +8,7 @@ export default function Footer() {
         </p>
 
         <div className="mt-6 flex flex-wrap gap-6 text-sm text-neutral-500">
-          <p>info@veebivorm.ee</p>
+          <p></p>
           <p>veebivorm.ee</p>
         </div>
       </div>
